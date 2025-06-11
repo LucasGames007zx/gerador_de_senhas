@@ -60,3 +60,5 @@ tk.Button(root, text="Copiar Senha", command=copiar_senha).pack(pady=5)
 # Iniciar a interface
 root.mainloop()
 
+
+#comentário do ale
